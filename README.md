@@ -60,17 +60,5 @@
     </li>
   </ol>
 
-  <h2>🌟 Future Enhancements</h2>
-  <ul>
-    <li>Integrate a real payment gateway (e.g., PayPal, Stripe).</li>
-    <li>Add user reviews and ratings for books.</li>
-    <li>Implement recommendation algorithms for personalized suggestions.</li>
-    <li>Enhance the UI with modern CSS frameworks like Bootstrap or Tailwind CSS.</li>
-  </ul>
-
-  <p>This <strong>Online Book Store</strong> is a scalable and maintainable solution for managing bookstore operations. Customize it further to suit your specific needs!</p>
-
-  <p>🎉 <strong>Happy Coding!</strong> 🎉</p>
-
 </body>
 </html>
