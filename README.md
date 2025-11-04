@@ -44,10 +44,10 @@
   <h2>🚀 Installation Steps</h2>
   <ol>
     <li>Clone the repository:
-      <pre>git clone https://github.com/phamgiakhoi04/TMDT-Bookstore-.git
+      <pre>git clone https://github.com/phamgiakhoi04/TMDT-Bookstore-.git</pre>
     </li>
     <li>Navigate to the project directory:
-      <pre>cd Online-Book-Store-Spring-Boot</pre>
+      <pre>cd TMDT-Bookstore-</pre>
     </li>
     <li>Build the project using Maven:
       <pre>mvn clean install</pre>
