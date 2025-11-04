@@ -44,7 +44,7 @@
   <h2>🚀 Installation Steps</h2>
   <ol>
     <li>Clone the repository:
-      <pre>git clone https://github.com/yourusername/Online-Book-Store-Spring-Boot.git</pre>
+      <pre>git clone https://github.com/phamgiakhoi04/TMDT-Bookstore-.git
     </li>
     <li>Navigate to the project directory:
       <pre>cd Online-Book-Store-Spring-Boot</pre>
